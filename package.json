@@ -1,0 +1,29 @@
+{
+  "name": "igdb-wrapper-node",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbialas/igdb-wrapper-node.git"
+  },
+  "keywords": [
+    "igdb",
+    "wrapper",
+    "node"
+  ],
+  "author": "Bartosz Bialas <bartosz.bialas@fenira.com> (http://fenira.com)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/bbialas/igdb-wrapper-node/issues"
+  },
+  "homepage": "https://github.com/bbialas/igdb-wrapper-node#readme"
+}
